@@ -1,0 +1,1774 @@
+{
+  "$type": "Manifest, Wabbajack.Lib",
+  "Name": "In the Stardew of the Valley",
+  "Version": "1.0",
+  "Author": "Patchier#6969",
+  "Description": "In the Stardew of the Valley....that I loved best. \r\n\r\nThis is a small, stable, and (hopefully) enjoyable modlist built around the very popular \"Stardew Valley Expanded\" mod, which, as it's name suggests, greatly expands Stardew Valley in ways that feel very, VERY organic to the base game. ",
+  "GameType": "StardewValley",
+  "GameName": "StardewValley",
+  "ModManager": 0,
+  "ModManagerName": "MO2",
+  "DownloadSize": 247909056,
+  "InstallSize": 516911021,
+  "IsNSFW": false,
+  "Archives": [
+    {
+      "$type": "Archive, Wabbajack.Lib",
+      "Hash": "X6jSDGVDJNk=",
+      "Meta": null,
+      "Name": "Mod Organizer 2 (Archive)-6194-2-3-0-1595984227.7z",
+      "Size": 82337669,
+      "State": {
+        "$type": "HttpDownloader, Wabbajack.Lib",
+        "Url": "https://github.com/ModOrganizer2/modorganizer/releases/download/v2.3.0/Mod.Organizer-2.3.0.7z",
+        "Headers": [],
+        "PrimaryKeyString": "HTTPDownloader+State|https://github.com/ModOrganizer2/modorganizer/releases/download/v2.3.0/Mod.Organizer-2.3.0.7z"
+      }
+    },
+    {
+      "$type": "Archive, Wabbajack.Lib",
+      "Hash": "r9Dc2woxqxs=",
+      "Meta": null,
+      "Name": "BETA Cannabis Kit 3.0.0-1741-3-0-0-beta-2-1596599679.zip",
+      "Size": 300230,
+      "State": {
+        "$type": "NexusDownloader, Wabbajack.Lib",
+        "Name": "PPJA - Cannabis Kit",
+        "Author": "taintedwheat and Project Populate Json Assets",
+        "Version": "3.0.0.0b--2",
+        "ImageURL": "https://staticdelivery.nexusmods.com/mods/1303/images/1741/1741-1574728503-74184856.png",
+        "IsNSFW": false,
+        "Description": "Mayor Lewis has recently passed legislation allowing you to now grow cannabis on your farm! Adds new craftables and recipes as well as a new crop! This mod is a re-release of my previous cannabis crop mod, but with an overhaul.",
+        "GameName": "StardewValley",
+        "ModID": 1741,
+        "FileID": 29849,
+        "PrimaryKeyString": "NexusDownloader+State|StardewValley|1741|29849"
+      }
+    },
+    {
+      "$type": "Archive, Wabbajack.Lib",
+      "Hash": "rQRw+Qfy0NQ=",
+      "Meta": null,
+      "Name": "BETA Fresh Meat 3.0.0-1721-3-0-0-beta-3-1599522541.zip",
+      "Size": 30366356,
+      "State": {
+        "$type": "NexusDownloader, Wabbajack.Lib",
+        "Name": "PPJA - Fresh Meat_An 'Alternative' Butcher Mod",
+        "Author": "Project Populate Json Assets",
+        "Version": "3.0.0.0b--3",
+        "ImageURL": "https://staticdelivery.nexusmods.com/mods/1303/images/1721/1721-1574740788-247435353.png",
+        "IsNSFW": false,
+        "Description": "Sure, you can grow-up your cows and slaughter them but what about a plant alternative?",
+        "GameName": "StardewValley",
+        "ModID": 1721,
+        "FileID": 30973,
+        "PrimaryKeyString": "NexusDownloader+State|StardewValley|1721|30973"
+      }
+    },
+    {
+      "$type": "Archive, Wabbajack.Lib",
+      "Hash": "hzuDXiTo2rI=",
+      "Meta": null,
+      "Name": "Museum Expansion-6027-1-9-10-1600383618.zip",
+      "Size": 525587,
+      "State": {
+        "$type": "NexusDownloader, Wabbajack.Lib",
+        "Name": "Museum Expansion",
+        "Author": "andril11 and a lot of people",
+        "Version": "1.9.10.0",
+        "ImageURL": "https://staticdelivery.nexusmods.com/mods/1303/images/6027/6027-1595282679-1572533332.png",
+        "IsNSFW": false,
+        "Description": "This is a complete museum lore expansion! Adding new npcs, shops and more to come!",
+        "GameName": "StardewValley",
+        "ModID": 6027,
+        "FileID": 31270,
+        "PrimaryKeyString": "NexusDownloader+State|StardewValley|6027|31270"
+      }
+    },
+    {
+      "$type": "Archive, Wabbajack.Lib",
+      "Hash": "DNlWPl2NIYM=",
+      "Meta": null,
+      "Name": "modorganizer-basic_games-master.zip",
+      "Size": 22356,
+      "State": {
+        "$type": "HttpDownloader, Wabbajack.Lib",
+        "Url": "https://github.com/ModOrganizer2/modorganizer-basic_games/archive/master.zip",
+        "Headers": [],
+        "PrimaryKeyString": "HTTPDownloader+State|https://github.com/ModOrganizer2/modorganizer-basic_games/archive/master.zip"
+      }
+    },
+    {
+      "$type": "Archive, Wabbajack.Lib",
+      "Hash": "2hSFU2kJRSE=",
+      "Meta": null,
+      "Name": "Ancient Crops - Custom Icons - BAGI Add-On-4472-1-0-1-1568605329.zip",
+      "Size": 3876,
+      "State": {
+        "$type": "NexusDownloader, Wabbajack.Lib",
+        "Name": "PPJA - Ancient Crops",
+        "Author": "Project Populate Json Assets",
+        "Version": "1.0.1.0",
+        "ImageURL": "https://staticdelivery.nexusmods.com/mods/1303/images/4472/4472-1574741727-2011028852.png",
+        "IsNSFW": false,
+        "Description": "Since you've had luck growing an ancient seed, let's see how your green thumb treats these ancient crops.",
+        "GameName": "StardewValley",
+        "ModID": 4472,
+        "FileID": 19155,
+        "PrimaryKeyString": "NexusDownloader+State|StardewValley|4472|19155"
+      }
+    },
+    {
+      "$type": "Archive, Wabbajack.Lib",
+      "Hash": "usgci93uQMo=",
+      "Meta": null,
+      "Name": "Artisan Valley - CustomCaskMod Add-On-1926-3-0-2-1594757685.zip",
+      "Size": 1026,
+      "State": {
+        "$type": "NexusDownloader, Wabbajack.Lib",
+        "Name": "PPJA - Artisan Valley",
+        "Author": "Project Populate Json Assets",
+        "Version": "3.0.2.0",
+        "ImageURL": "https://staticdelivery.nexusmods.com/mods/1303/images/1926/1926-1577158903-441592645.png",
+        "IsNSFW": false,
+        "Description": "Me sell artisan goods. Okay, poke? Bring coines. 20 New Machines and 150+ New Items!",
+        "GameName": "StardewValley",
+        "ModID": 1926,
+        "FileID": 29213,
+        "PrimaryKeyString": "NexusDownloader+State|StardewValley|1926|29213"
+      }
+    },
+    {
+      "$type": "Archive, Wabbajack.Lib",
+      "Hash": "N2qZ6yZ3kfM=",
+      "Meta": null,
+      "Name": "Better Artisan Good Icons-2080-1-5-0-1551768141.zip",
+      "Size": 88524,
+      "State": {
+        "$type": "NexusDownloader, Wabbajack.Lib",
+        "Name": "Better Artisan Good Icons",
+        "Author": "Cat",
+        "Version": "1.5.0.0",
+        "ImageURL": "https://staticdelivery.nexusmods.com/mods/1303/images/2080/2080-1526255820-667585641.png",
+        "IsNSFW": false,
+        "Description": "This mod makes jelly, pickles, wine, juice, and honey icons be based on the fruit, vegetable, or flower used to make them. Easily tell at a glance what types of wine, jelly, etc you have in your inventory! (You can hide the little icons if you want too :))",
+        "GameName": "StardewValley",
+        "ModID": 2080,
+        "FileID": 14926,
+        "PrimaryKeyString": "NexusDownloader+State|StardewValley|2080|14926"
+      }
+    },
+    {
+      "$type": "Archive, Wabbajack.Lib",
+      "Hash": "AC7xFa+YPmE=",
+      "Meta": null,
+      "Name": "CustomCaskMod-v1.2.1-2642-1-2-1-1574830411.zip",
+      "Size": 15329,
+      "State": {
+        "$type": "NexusDownloader, Wabbajack.Lib",
+        "Name": "Custom Cask Mod",
+        "Author": "Digus",
+        "Version": "1.2.1.0",
+        "ImageURL": "https://staticdelivery.nexusmods.com/mods/1303/images/2642/2642-1533870347-1459307270.png",
+        "IsNSFW": false,
+        "Description": "Adds a way to customize the casks. It comes configurable with Pickles and Maple Syrup but can be changed to add any 'Object' and change the time of the products that already work on casks. You can also enable casks to work outside the cellar.",
+        "GameName": "StardewValley",
+        "ModID": 2642,
+        "FileID": 20319,
+        "PrimaryKeyString": "NexusDownloader+State|StardewValley|2642|20319"
+      }
+    },
+    {
+      "$type": "Archive, Wabbajack.Lib",
+      "Hash": "9s3zTOLcNMU=",
+      "Meta": null,
+      "Name": "Multi Yield Crops-6069-1-0-1-1594757260.zip",
+      "Size": 13029,
+      "State": {
+        "$type": "NexusDownloader, Wabbajack.Lib",
+        "Name": "Multi Yield Crops",
+        "Author": "Cherry",
+        "Version": "1.0.1.0",
+        "ImageURL": "https://staticdelivery.nexusmods.com/mods/1303/images/6069/6069-1589508247-1914674434.png",
+        "IsNSFW": false,
+        "Description": "Allows crops to yield more than one kind of harvest. Fully configurable and with content pack support",
+        "GameName": "StardewValley",
+        "ModID": 6069,
+        "FileID": 29210,
+        "PrimaryKeyString": "NexusDownloader+State|StardewValley|6069|29210"
+      }
+    },
+    {
+      "$type": "Archive, Wabbajack.Lib",
+      "Hash": "sV0JWbZL5nU=",
+      "Meta": null,
+      "Name": "PPJA Icon Pack-2925-1-2-2-1577151568.zip",
+      "Size": 36006,
+      "State": {
+        "$type": "NexusDownloader, Wabbajack.Lib",
+        "Name": "PPJA Icon Pack for Better Artisan Goods Icons",
+        "Author": "Project Populate Json Assets",
+        "Version": "1.2.2.0",
+        "ImageURL": "https://staticdelivery.nexusmods.com/mods/1303/images/2925/2925-1574732132-1333792989.png",
+        "IsNSFW": false,
+        "Description": "A content pack for Better Artisan Goods Icons that is meant to pair with the PPJA collection. Includes optional download for default crops &amp; Stardrops Crop as well.",
+        "GameName": "StardewValley",
+        "ModID": 2925,
+        "FileID": 21914,
+        "PrimaryKeyString": "NexusDownloader+State|StardewValley|2925|21914"
+      }
+    },
+    {
+      "$type": "Archive, Wabbajack.Lib",
+      "Hash": "aU+CiwTqr7o=",
+      "Meta": null,
+      "Name": "Seasonal Outfits - SVE-5975-1-1-1-1595618512.zip",
+      "Size": 7632221,
+      "State": {
+        "$type": "NexusDownloader, Wabbajack.Lib",
+        "Name": "Seasonal Outfits for SVE (Vanilla Style)",
+        "Author": "Poltergeister and Tanpoponoko",
+        "Version": "1.1.1.0",
+        "ImageURL": "https://staticdelivery.nexusmods.com/mods/1303/images/5975/5975-1588532184-1177296122.png",
+        "IsNSFW": false,
+        "Description": "Gives the NPCs of Stardew Valley Expanded seasonal clothing.",
+        "GameName": "StardewValley",
+        "ModID": 5975,
+        "FileID": 29519,
+        "PrimaryKeyString": "NexusDownloader+State|StardewValley|5975|29519"
+      }
+    },
+    {
+      "$type": "Archive, Wabbajack.Lib",
+      "Hash": "FdiRp/swXJs=",
+      "Meta": null,
+      "Name": "TimeSpeed 2.4.3-169-2-4-3-1574825261.zip",
+      "Size": 14306,
+      "State": {
+        "$type": "NexusDownloader, Wabbajack.Lib",
+        "Name": "TimeSpeed",
+        "Author": "cantorsdust",
+        "Version": "2.4.3.0",
+        "ImageURL": null,
+        "IsNSFW": false,
+        "Description": "Control the flow of time in the game: speed it up, slow it down, or freeze it altogether. This can happen automatically or when you press a key in the game.",
+        "GameName": "StardewValley",
+        "ModID": 169,
+        "FileID": 20300,
+        "PrimaryKeyString": "NexusDownloader+State|StardewValley|169|20300"
+      }
+    },
+    {
+      "$type": "Archive, Wabbajack.Lib",
+      "Hash": "aY2SG+B39sc=",
+      "Meta": null,
+      "Name": "Traveling Takes Time-4031-1-1-2-1559681006.zip",
+      "Size": 8538,
+      "State": {
+        "$type": "NexusDownloader, Wabbajack.Lib",
+        "Name": "Traveling Takes Time",
+        "Author": "Vrakyas",
+        "Version": "1.1.2.0",
+        "ImageURL": "https://staticdelivery.nexusmods.com/mods/1303/images/4031/4031-1559680844-1506381914.png",
+        "IsNSFW": false,
+        "Description": "Traveling by mine cart or bus will take some time",
+        "GameName": "StardewValley",
+        "ModID": 4031,
+        "FileID": 17040,
+        "PrimaryKeyString": "NexusDownloader+State|StardewValley|4031|17040"
+      }
+    },
+    {
+      "$type": "Archive, Wabbajack.Lib",
+      "Hash": "MMdxv/Bn+Wo=",
+      "Meta": null,
+      "Name": "Quest Framework 1.0.0-6414-1-0-0-1595771476.zip",
+      "Size": 166427,
+      "State": {
+        "$type": "NexusDownloader, Wabbajack.Lib",
+        "Name": "Quest Framework",
+        "Author": "PurrplingCat",
+        "Version": "1.0.0.0",
+        "ImageURL": "https://staticdelivery.nexusmods.com/mods/1303/images/6414/6414-1593977689-1161255714.png",
+        "IsNSFW": false,
+        "Description": "Framework for work with quests like create custom quests, define custom quest types and handle quests.",
+        "GameName": "StardewValley",
+        "ModID": 6414,
+        "FileID": 29565,
+        "PrimaryKeyString": "NexusDownloader+State|StardewValley|6414|29565"
+      }
+    },
+    {
+      "$type": "Archive, Wabbajack.Lib",
+      "Hash": "A2lMXSl1Qcc=",
+      "Meta": null,
+      "Name": "NPC Adventures 0.14.1 - Major Minority-4582-0-14-1-1595836547.zip",
+      "Size": 453000,
+      "State": {
+        "$type": "NexusDownloader, Wabbajack.Lib",
+        "Name": "NPC Adventures (It's time to adventure)",
+        "Author": "PurrplingCat",
+        "Version": "0.14.1.0",
+        "ImageURL": "https://staticdelivery.nexusmods.com/mods/1303/images/4582/4582-1571776046-241199285.png",
+        "IsNSFW": false,
+        "Description": "It's time to adventure! Go on an adventure with the villagers from Pelican Town as companions!",
+        "GameName": "StardewValley",
+        "ModID": 4582,
+        "FileID": 29595,
+        "PrimaryKeyString": "NexusDownloader+State|StardewValley|4582|29595"
+      }
+    },
+    {
+      "$type": "Archive, Wabbajack.Lib",
+      "Hash": "sPuLxLcXD0w=",
+      "Meta": null,
+      "Name": "Tell Everyone (Town Gossip)-6046-1-0-1-1592527016.zip",
+      "Size": 6847,
+      "State": {
+        "$type": "NexusDownloader, Wabbajack.Lib",
+        "Name": "Tell Everyone (Town Gossip)",
+        "Author": "LemurKat",
+        "Version": "1.0.1.0",
+        "ImageURL": "https://staticdelivery.nexusmods.com/mods/1303/images/6046/6046-1589270458-1356668660.jpeg",
+        "IsNSFW": false,
+        "Description": "Caught the Mayor in a scandalous act and declared you're going to \"Tell everyone\" but disappointed because nothing comes of it?\n\nWell now it can!\n\nAt least for three days.",
+        "GameName": "StardewValley",
+        "ModID": 6046,
+        "FileID": 28372,
+        "PrimaryKeyString": "NexusDownloader+State|StardewValley|6046|28372"
+      }
+    },
+    {
+      "$type": "Archive, Wabbajack.Lib",
+      "Hash": "eSu7pH0AkJw=",
+      "Meta": null,
+      "Name": "AntiSocialNPCs-5371-1-0-2-1585159941.zip",
+      "Size": 9137,
+      "State": {
+        "$type": "NexusDownloader, Wabbajack.Lib",
+        "Name": "Anti-Social NPCs",
+        "Author": "Super Aardvark",
+        "Version": "1.0.2.0",
+        "ImageURL": "https://staticdelivery.nexusmods.com/mods/1303/images/5371/5371-1581279001-684790990.png",
+        "IsNSFW": false,
+        "Description": "Allows modders to create NPCs that the player can't befriend.",
+        "GameName": "StardewValley",
+        "ModID": 5371,
+        "FileID": 25336,
+        "PrimaryKeyString": "NexusDownloader+State|StardewValley|5371|25336"
+      }
+    },
+    {
+      "$type": "Archive, Wabbajack.Lib",
+      "Hash": "H5oe2Lv0Xlw=",
+      "Meta": null,
+      "Name": "Farm Type Manager v1.11.0-3231-1-11-0-1591830554.zip",
+      "Size": 226457,
+      "State": {
+        "$type": "NexusDownloader, Wabbajack.Lib",
+        "Name": "Farm Type Manager (FTM)",
+        "Author": "Esca-MMC",
+        "Version": "1.11.0.0",
+        "ImageURL": "https://staticdelivery.nexusmods.com/mods/1303/images/3231/3231-1549594226-514724928.png",
+        "IsNSFW": false,
+        "Description": "Farm Type Manager is a spawning framework that allows players and modders to spawn customizable features from Stardew's farm types. It can automatically create forage, ore, monsters, and large objects (stumps, boulders, meteors, etc) at any location in the game.",
+        "GameName": "StardewValley",
+        "ModID": 3231,
+        "FileID": 28066,
+        "PrimaryKeyString": "NexusDownloader+State|StardewValley|3231|28066"
+      }
+    },
+    {
+      "$type": "Archive, Wabbajack.Lib",
+      "Hash": "enp3Hpnu/E8=",
+      "Meta": null,
+      "Name": "JsonAssets 1.6.2.zip-1720-1-6-2-1583105276.zip",
+      "Size": 171928,
+      "State": {
+        "$type": "NexusDownloader, Wabbajack.Lib",
+        "Name": "Json Assets",
+        "Author": "spacechase0",
+        "Version": "1.6.2.0",
+        "ImageURL": "https://staticdelivery.nexusmods.com/mods/1303/images/1720/1720-1514484394-1630333782.png",
+        "IsNSFW": false,
+        "Description": "Successor to Custom Crops.",
+        "GameName": "StardewValley",
+        "ModID": 1720,
+        "FileID": 24638,
+        "PrimaryKeyString": "NexusDownloader+State|StardewValley|1720|24638"
+      }
+    },
+    {
+      "$type": "Archive, Wabbajack.Lib",
+      "Hash": "TcKXsjn2WXk=",
+      "Meta": null,
+      "Name": "MailFrameworkMod-v1.7.0-1536-1-7-0-1580666422.zip",
+      "Size": 38752,
+      "State": {
+        "$type": "NexusDownloader, Wabbajack.Lib",
+        "Name": "Mail Framework Mod",
+        "Author": "Digus",
+        "Version": "1.7.0.0",
+        "ImageURL": "https://staticdelivery.nexusmods.com/mods/1303/images/1536-0-1507520087.png",
+        "IsNSFW": false,
+        "Description": "Framework to use the in game mailbox. Console commands to adjust the mail. Code and Content Pack interfaces.",
+        "GameName": "StardewValley",
+        "ModID": 1536,
+        "FileID": 23513,
+        "PrimaryKeyString": "NexusDownloader+State|StardewValley|1536|23513"
+      }
+    },
+    {
+      "$type": "Archive, Wabbajack.Lib",
+      "Hash": "JbnfBr+eu54=",
+      "Meta": null,
+      "Name": "Custom Crafting Stations-6293-1-1-1-1595779994.zip",
+      "Size": 29342,
+      "State": {
+        "$type": "NexusDownloader, Wabbajack.Lib",
+        "Name": "Custom Crafting Stations",
+        "Author": "Cherry",
+        "Version": "1.1.1.0",
+        "ImageURL": "https://staticdelivery.nexusmods.com/mods/1303/images/6293/6293-1592079003-1962680008.png",
+        "IsNSFW": false,
+        "Description": "Allows modders to add customized crafting stations which opens menus with a limited selection of recipes, without those recipes cluttering up the vanilla crafting menus",
+        "GameName": "StardewValley",
+        "ModID": 6293,
+        "FileID": 29572,
+        "PrimaryKeyString": "NexusDownloader+State|StardewValley|6293|29572"
+      }
+    },
+    {
+      "$type": "Archive, Wabbajack.Lib",
+      "Hash": "IhaCpO4T5MM=",
+      "Meta": null,
+      "Name": "Expanded Preconditions Utility-6529-1-0-0-1595771135.zip",
+      "Size": 12328,
+      "State": {
+        "$type": "NexusDownloader, Wabbajack.Lib",
+        "Name": "Expanded Preconditions Utility",
+        "Author": "Cherry",
+        "Version": "1.0.0.0",
+        "ImageURL": "https://staticdelivery.nexusmods.com/mods/1303/images/6529/6529-1595730677-2021593035.png",
+        "IsNSFW": false,
+        "Description": "A utility mod built on top of the game's preconditions system to offer a conditions system any mod can use",
+        "GameName": "StardewValley",
+        "ModID": 6529,
+        "FileID": 29564,
+        "PrimaryKeyString": "NexusDownloader+State|StardewValley|6529|29564"
+      }
+    },
+    {
+      "$type": "Archive, Wabbajack.Lib",
+      "Hash": "EFRaRdlFiDc=",
+      "Meta": null,
+      "Name": "Winter Grass-1601-2-0-1-1576388280.zip",
+      "Size": 10971,
+      "State": {
+        "$type": "NexusDownloader, Wabbajack.Lib",
+        "Name": "Winter Grass",
+        "Author": "Cat",
+        "Version": "2.0.1.0",
+        "ImageURL": "https://staticdelivery.nexusmods.com/mods/1303/images/1601-1-1509762347.png",
+        "IsNSFW": false,
+        "Description": "This mod makes grass survive through winter!",
+        "GameName": "StardewValley",
+        "ModID": 1601,
+        "FileID": 21530,
+        "PrimaryKeyString": "NexusDownloader+State|StardewValley|1601|21530"
+      }
+    },
+    {
+      "$type": "Archive, Wabbajack.Lib",
+      "Hash": "xcO7jWQBq30=",
+      "Meta": null,
+      "Name": "ProducerFrameworkMod-v1.4.1-4970-1-4-1-1585422138.zip",
+      "Size": 72185,
+      "State": {
+        "$type": "NexusDownloader, Wabbajack.Lib",
+        "Name": "Producer Framework Mod",
+        "Author": "Digus",
+        "Version": "1.4.1.0",
+        "ImageURL": "https://staticdelivery.nexusmods.com/mods/1303/images/4970/4970-1577152857-2963443.png",
+        "IsNSFW": false,
+        "Description": "Framework to add custom rules for producing objects. Supports code and content pack interfaces.",
+        "GameName": "StardewValley",
+        "ModID": 4970,
+        "FileID": 25470,
+        "PrimaryKeyString": "NexusDownloader+State|StardewValley|4970|25470"
+      }
+    },
+    {
+      "$type": "Archive, Wabbajack.Lib",
+      "Hash": "bavcFyVK+pU=",
+      "Meta": null,
+      "Name": "Dynamic Night Time-2072-1-3-6-1596422375.zip",
+      "Size": 76164,
+      "State": {
+        "$type": "NexusDownloader, Wabbajack.Lib",
+        "Name": "Dynamic Night Time",
+        "Author": "KNakamura",
+        "Version": "1.3.6.0",
+        "ImageURL": "https://staticdelivery.nexusmods.com/mods/1303/images/2072/2072-1524440937-751747441.png",
+        "IsNSFW": false,
+        "Description": "This mod gives Stardew Valley a more dynamic daylight cycle, changing when it gets dark and adding a dawn period at the start of the day. It also adds a full light cycle, adding sunrise and sunset effects. These times will vary depending on the time of year. Can be configured to match your latitude. Does not alter start time.",
+        "GameName": "StardewValley",
+        "ModID": 2072,
+        "FileID": 29789,
+        "PrimaryKeyString": "NexusDownloader+State|StardewValley|2072|29789"
+      }
+    },
+    {
+      "$type": "Archive, Wabbajack.Lib",
+      "Hash": "jfv2H7bC+Jk=",
+      "Meta": null,
+      "Name": "Immersive Farm 2 Remastered-3753-1-10-10-1592152431.zip",
+      "Size": 5175368,
+      "State": {
+        "$type": "NexusDownloader, Wabbajack.Lib",
+        "Name": "Stardew Valley Expanded",
+        "Author": "FlashShifter",
+        "Version": "1.10.10.0",
+        "ImageURL": "https://staticdelivery.nexusmods.com/mods/1303/images/3753/3753-1586539702-128676559.png",
+        "IsNSFW": false,
+        "Description": "Stardew Valley Expanded is a fanmade expansion for ConcernedApe's Stardew Valley. This mod features 23 new locations, 126 new character events, 9 new NPCs, a new village, 750 location messages, reimagined maps and festivals (all maps), a huge remastered farm map, a new world map reflecting all changes, and many miscellaneous additions!",
+        "GameName": "StardewValley",
+        "ModID": 3753,
+        "FileID": 28194,
+        "PrimaryKeyString": "NexusDownloader+State|StardewValley|3753|28194"
+      }
+    },
+    {
+      "$type": "Archive, Wabbajack.Lib",
+      "Hash": "KkNy8fjQcRc=",
+      "Meta": null,
+      "Name": "NPC Map Locations for Stardew Valley Expanded-239-2-5-11-1597472731.zip",
+      "Size": 1075951,
+      "State": {
+        "$type": "NexusDownloader, Wabbajack.Lib",
+        "Name": "NPC Map Locations",
+        "Author": "Bouhm",
+        "Version": "2.5.11.0",
+        "ImageURL": "https://staticdelivery.nexusmods.com/mods/1303/images/239/239-1522469229-1390441983.png",
+        "IsNSFW": false,
+        "Description": "Shows the locations of NPC and farmers on the map page and on a minimap. Provides modified map pages that are much more accurate to the game.",
+        "GameName": "StardewValley",
+        "ModID": 239,
+        "FileID": 30196,
+        "PrimaryKeyString": "NexusDownloader+State|StardewValley|239|30196"
+      }
+    },
+    {
+      "$type": "Archive, Wabbajack.Lib",
+      "Hash": "UMACoFUwx6w=",
+      "Meta": null,
+      "Name": "SpaceCore 1.4.5.zip-1348-1-4-0-1597626561.zip",
+      "Size": 160006,
+      "State": {
+        "$type": "NexusDownloader, Wabbajack.Lib",
+        "Name": "SpaceCore",
+        "Author": "spacechase0",
+        "Version": "1.4.0.0",
+        "ImageURL": null,
+        "IsNSFW": false,
+        "Description": "Required by a few mods.",
+        "GameName": "StardewValley",
+        "ModID": 1348,
+        "FileID": 30264,
+        "PrimaryKeyString": "NexusDownloader+State|StardewValley|1348|30264"
+      }
+    },
+    {
+      "$type": "Archive, Wabbajack.Lib",
+      "Hash": "aQFIh/Lul1k=",
+      "Meta": null,
+      "Name": "-Stardew Valley Expanded--3753-1-10-14-1598033533.zip",
+      "Size": 70108956,
+      "State": {
+        "$type": "NexusDownloader, Wabbajack.Lib",
+        "Name": "Stardew Valley Expanded",
+        "Author": "FlashShifter",
+        "Version": "1.10.14.0",
+        "ImageURL": "https://staticdelivery.nexusmods.com/mods/1303/images/3753/3753-1586539702-128676559.png",
+        "IsNSFW": false,
+        "Description": "Stardew Valley Expanded is a fanmade expansion for ConcernedApe's Stardew Valley. This mod features 23 new locations, 126 new character events, 9 new NPCs, a new village, 750 location messages, reimagined maps and festivals (all maps), a huge remastered farm map, a new world map reflecting all changes, and many miscellaneous additions!",
+        "GameName": "StardewValley",
+        "ModID": 3753,
+        "FileID": 30435,
+        "PrimaryKeyString": "NexusDownloader+State|StardewValley|3753|30435"
+      }
+    },
+    {
+      "$type": "Archive, Wabbajack.Lib",
+      "Hash": "hk5iuncfJ+o=",
+      "Meta": null,
+      "Name": "Shop Tile Framework-5005-1-0-8-1598115692.zip",
+      "Size": 63300,
+      "State": {
+        "$type": "NexusDownloader, Wabbajack.Lib",
+        "Name": "Shop Tile Framework",
+        "Author": "Cherry",
+        "Version": "1.0.8.0",
+        "ImageURL": "https://staticdelivery.nexusmods.com/mods/1303/images/5005/5005-1577731760-1616461932.png",
+        "IsNSFW": false,
+        "Description": "A Framework mod that allows modders to add custom shops to the game, as well as edit vanilla shops",
+        "GameName": "StardewValley",
+        "ModID": 5005,
+        "FileID": 30483,
+        "PrimaryKeyString": "NexusDownloader+State|StardewValley|5005|30483"
+      }
+    },
+    {
+      "$type": "Archive, Wabbajack.Lib",
+      "Hash": "UIUukklNwoI=",
+      "Meta": null,
+      "Name": "Climates of Ferngill-604-1-5-12-1598294961.zip",
+      "Size": 1064090,
+      "State": {
+        "$type": "NexusDownloader, Wabbajack.Lib",
+        "Name": "Climates of Ferngill",
+        "Author": "Sakorona",
+        "Version": "1.5.12.0",
+        "ImageURL": "https://staticdelivery.nexusmods.com/mods/1303/images/604/604-1517531638-620316102.png",
+        "IsNSFW": false,
+        "Description": "This mod expands the climate system to be more robust, adding custom weathers. This climate system can be tweaked to add a degree of difficulty to the game.",
+        "GameName": "StardewValley",
+        "ModID": 604,
+        "FileID": 30548,
+        "PrimaryKeyString": "NexusDownloader+State|StardewValley|604|30548"
+      }
+    },
+    {
+      "$type": "Archive, Wabbajack.Lib",
+      "Hash": "gNeFykKcjO8=",
+      "Meta": null,
+      "Name": "PyTK - Platonymous Toolkit-1726-1-19-0-1599827615.zip",
+      "Size": 875891,
+      "State": {
+        "$type": "NexusDownloader, Wabbajack.Lib",
+        "Name": "PyTK - Platonymous Toolkit",
+        "Author": "Platonymous",
+        "Version": "1.19.0.0",
+        "ImageURL": "https://staticdelivery.nexusmods.com/mods/1303/images/1726/1726-1592947237-2140796585.png",
+        "IsNSFW": false,
+        "Description": "Toolkit for Smapi Mods",
+        "GameName": "StardewValley",
+        "ModID": 1726,
+        "FileID": 31070,
+        "PrimaryKeyString": "NexusDownloader+State|StardewValley|1726|31070"
+      }
+    },
+    {
+      "$type": "Archive, Wabbajack.Lib",
+      "Hash": "/tHgrIcbWRI=",
+      "Meta": null,
+      "Name": "Lunar Disturbances-2208-1-4-1598294055.zip",
+      "Size": 120639,
+      "State": {
+        "$type": "NexusDownloader, Wabbajack.Lib",
+        "Name": "Lunar Disturbances",
+        "Author": "Sakorona",
+        "Version": "1.4.0.0",
+        "ImageURL": "https://staticdelivery.nexusmods.com/mods/1303/images/2208/2208-1526782504-728581690.png",
+        "IsNSFW": false,
+        "Description": "This mod adds a moon overhead, which enables events such as a solar eclipse, a blood moon for rare occasions, and more items washed up or less.",
+        "GameName": "StardewValley",
+        "ModID": 2208,
+        "FileID": 30547,
+        "PrimaryKeyString": "NexusDownloader+State|StardewValley|2208|30547"
+      }
+    },
+    {
+      "$type": "Archive, Wabbajack.Lib",
+      "Hash": "IZHWY3qI0z8=",
+      "Meta": null,
+      "Name": "HybridCropEngine 1.0.0.zip-6577-1-0-0-1596581667.zip",
+      "Size": 15968,
+      "State": {
+        "$type": "NexusDownloader, Wabbajack.Lib",
+        "Name": "Hybrid Crop Engine",
+        "Author": "spacechase0",
+        "Version": "1.0.0.0",
+        "ImageURL": "https://staticdelivery.nexusmods.com/mods/1303/images/6577/6577-1596581537-218453688.png",
+        "IsNSFW": false,
+        "Description": "Fully grown adjacent crops can have a chance of having a hybrid crop appear in between them.",
+        "GameName": "StardewValley",
+        "ModID": 6577,
+        "FileID": 29838,
+        "PrimaryKeyString": "NexusDownloader+State|StardewValley|6577|29838"
+      }
+    },
+    {
+      "$type": "Archive, Wabbajack.Lib",
+      "Hash": "mLaGRced0+Q=",
+      "Meta": null,
+      "Name": "Lookup Anything 1.27.5-541-1-27-5-1598664794.zip",
+      "Size": 467509,
+      "State": {
+        "$type": "NexusDownloader, Wabbajack.Lib",
+        "Name": "Lookup Anything",
+        "Author": "Pathoschild",
+        "Version": "1.27.5.0",
+        "ImageURL": "https://staticdelivery.nexusmods.com/mods/1303/images/541-0-1482010183.png",
+        "IsNSFW": false,
+        "Description": "See live info about whatever's under your cursor when you press F1. Learn a villager's favourite gifts, when a crop will be ready to harvest, how long a fence will last, why your farm animals are unhappy, and more.",
+        "GameName": "StardewValley",
+        "ModID": 541,
+        "FileID": 30710,
+        "PrimaryKeyString": "NexusDownloader+State|StardewValley|541|30710"
+      }
+    },
+    {
+      "$type": "Archive, Wabbajack.Lib",
+      "Hash": "eWNBP/KVBtA=",
+      "Meta": null,
+      "Name": "Ancient Crops-4472-2-1-3-1598712087.zip",
+      "Size": 68771,
+      "State": {
+        "$type": "NexusDownloader, Wabbajack.Lib",
+        "Name": "PPJA - Ancient Crops",
+        "Author": "Project Populate Json Assets",
+        "Version": "2.1.3.0",
+        "ImageURL": "https://staticdelivery.nexusmods.com/mods/1303/images/4472/4472-1574741727-2011028852.png",
+        "IsNSFW": false,
+        "Description": "Since you've had luck growing an ancient seed, let's see how your green thumb treats these ancient crops.",
+        "GameName": "StardewValley",
+        "ModID": 4472,
+        "FileID": 30737,
+        "PrimaryKeyString": "NexusDownloader+State|StardewValley|4472|30737"
+      }
+    },
+    {
+      "$type": "Archive, Wabbajack.Lib",
+      "Hash": "+oQ41nF3F44=",
+      "Meta": null,
+      "Name": "Fantasy Crops-1610-1-4-4-1598712125.zip",
+      "Size": 22415,
+      "State": {
+        "$type": "NexusDownloader, Wabbajack.Lib",
+        "Name": "PPJA - Fantasy Crops",
+        "Author": "Project Populate Json Assets",
+        "Version": "1.4.4.0",
+        "ImageURL": "https://staticdelivery.nexusmods.com/mods/1303/images/1610/1610-1574739930-2105398970.png",
+        "IsNSFW": false,
+        "Description": "A handful of fantasy-style crops for your farm.",
+        "GameName": "StardewValley",
+        "ModID": 1610,
+        "FileID": 30738,
+        "PrimaryKeyString": "NexusDownloader+State|StardewValley|1610|30738"
+      }
+    },
+    {
+      "$type": "Archive, Wabbajack.Lib",
+      "Hash": "5w9RS4QLSjw=",
+      "Meta": null,
+      "Name": "Fruits and Veggies-1598-2-0-13-1598712128.zip",
+      "Size": 534568,
+      "State": {
+        "$type": "NexusDownloader, Wabbajack.Lib",
+        "Name": "PPJA - Fruits and Veggies",
+        "Author": "Project Populate Json Assets",
+        "Version": "2.0.13.0",
+        "ImageURL": "https://staticdelivery.nexusmods.com/mods/1303/images/1598/1598-1574718799-851759086.png",
+        "IsNSFW": false,
+        "Description": "Mizu's crop sprites are now able to be used with JsonAssets.",
+        "GameName": "StardewValley",
+        "ModID": 1598,
+        "FileID": 30739,
+        "PrimaryKeyString": "NexusDownloader+State|StardewValley|1598|30739"
+      }
+    },
+    {
+      "$type": "Archive, Wabbajack.Lib",
+      "Hash": "NIa651yEiEA=",
+      "Meta": null,
+      "Name": "Shaved Ice and Frozen Treats-5388-1-2-2-1599233847.zip",
+      "Size": 209493,
+      "State": {
+        "$type": "NexusDownloader, Wabbajack.Lib",
+        "Name": "Shaved Ice and Frozen Treats",
+        "Author": "Hadi and Zosa and Fwippy",
+        "Version": "1.2.2.0",
+        "ImageURL": "https://staticdelivery.nexusmods.com/mods/1303/images/5388/5388-1581543511-1743411646.png",
+        "IsNSFW": false,
+        "Description": "Everyone knows there's no such thing as TOO much ice cream... so here's 26 new recipes and a Shaved Ice Machine for good measure.",
+        "GameName": "StardewValley",
+        "ModID": 5388,
+        "FileID": 30896,
+        "PrimaryKeyString": "NexusDownloader+State|StardewValley|5388|30896"
+      }
+    },
+    {
+      "$type": "Archive, Wabbajack.Lib",
+      "Hash": "7i+GcsOHxk8=",
+      "Meta": null,
+      "Name": "Artisanal Soda Makers-5173-1-3-3-1600315106.zip",
+      "Size": 201304,
+      "State": {
+        "$type": "NexusDownloader, Wabbajack.Lib",
+        "Name": "Artisanal Soda Makers",
+        "Author": "Hadi",
+        "Version": "1.3.3.0",
+        "ImageURL": "https://staticdelivery.nexusmods.com/mods/1303/images/5173/5173-1580788502-1653984247.png",
+        "IsNSFW": false,
+        "Description": "Tired of waiting to complete your Community Center before you can stick it to The Man? Do you really, REALLY, like soft drinks, and wish Joja Cola would come in better, snootier flavors? If so, I present a set of Soda Makers, for all your hipster soda needs.",
+        "GameName": "StardewValley",
+        "ModID": 5173,
+        "FileID": 31237,
+        "PrimaryKeyString": "NexusDownloader+State|StardewValley|5173|31237"
+      }
+    },
+    {
+      "$type": "Archive, Wabbajack.Lib",
+      "Hash": "yzH6BWuXg9c=",
+      "Meta": null,
+      "Name": "PPJA and More Fruit Pack-5173-1-3-3-1600313667.zip",
+      "Size": 190097,
+      "State": {
+        "$type": "NexusDownloader, Wabbajack.Lib",
+        "Name": "Artisanal Soda Makers",
+        "Author": "Hadi",
+        "Version": "1.3.3.0",
+        "ImageURL": "https://staticdelivery.nexusmods.com/mods/1303/images/5173/5173-1580788502-1653984247.png",
+        "IsNSFW": false,
+        "Description": "Tired of waiting to complete your Community Center before you can stick it to The Man? Do you really, REALLY, like soft drinks, and wish Joja Cola would come in better, snootier flavors? If so, I present a set of Soda Makers, for all your hipster soda needs.",
+        "GameName": "StardewValley",
+        "ModID": 5173,
+        "FileID": 31234,
+        "PrimaryKeyString": "NexusDownloader+State|StardewValley|5173|31234"
+      }
+    },
+    {
+      "$type": "Archive, Wabbajack.Lib",
+      "Hash": "xB7NzfDjuT0=",
+      "Meta": null,
+      "Name": "Fizzy Drinks 2.0.0-5342-2-0-0-1599977303.zip",
+      "Size": 134533,
+      "State": {
+        "$type": "NexusDownloader, Wabbajack.Lib",
+        "Name": "Fizzy Drinks",
+        "Author": "MelindaC and Fwippy",
+        "Version": "2.0.0.0",
+        "ImageURL": "https://staticdelivery.nexusmods.com/mods/1303/images/5342/5342-1580968948-720855478.png",
+        "IsNSFW": false,
+        "Description": "An offshoot of Artisanal Soda Makers, this mod focuses on specialty pop drinks. Based on RL sodas, this mod introduces four new foraging items, two new trees, two new crops and over fifty new products to your crafting experiences.",
+        "GameName": "StardewValley",
+        "ModID": 5342,
+        "FileID": 31128,
+        "PrimaryKeyString": "NexusDownloader+State|StardewValley|5342|31128"
+      }
+    },
+    {
+      "$type": "Archive, Wabbajack.Lib",
+      "Hash": "HxIXd47ajH8=",
+      "Meta": null,
+      "Name": "Automate 1.18-1063-1-18-0-1599936872.zip",
+      "Size": 187947,
+      "State": {
+        "$type": "NexusDownloader, Wabbajack.Lib",
+        "Name": "Automate",
+        "Author": "Pathoschild",
+        "Version": "1.18.0.0",
+        "ImageURL": "https://staticdelivery.nexusmods.com/mods/1303/images/1063-0-1491361908.png",
+        "IsNSFW": false,
+        "Description": "Place a chest next to a machine (like a furnace or crystalarium), and the machine will automatically pull raw items from the chest and push processed items into it. Connect multiple machines with a chest to link them.",
+        "GameName": "StardewValley",
+        "ModID": 1063,
+        "FileID": 31114,
+        "PrimaryKeyString": "NexusDownloader+State|StardewValley|1063|31114"
+      }
+    },
+    {
+      "$type": "Archive, Wabbajack.Lib",
+      "Hash": "eADQd/WTftU=",
+      "Meta": null,
+      "Name": "ChallengingCommunityCenterBundles-6361-1-5-0-1599840867.zip",
+      "Size": 22300,
+      "State": {
+        "$type": "NexusDownloader, Wabbajack.Lib",
+        "Name": "Challenging Community Center Bundles (for PPJA)",
+        "Author": "Alja",
+        "Version": "1.5.0.0",
+        "ImageURL": "https://staticdelivery.nexusmods.com/mods/1303/images/6361/6361-1593459563-226501197.png",
+        "IsNSFW": false,
+        "Description": "A bundle overhaul mod which utilizes the new crops, fruits and maschines provided by PPJA and tries to create a challenging but not frustrating experience playing Stardew Valley.",
+        "GameName": "StardewValley",
+        "ModID": 6361,
+        "FileID": 31072,
+        "PrimaryKeyString": "NexusDownloader+State|StardewValley|6361|31072"
+      }
+    },
+    {
+      "$type": "Archive, Wabbajack.Lib",
+      "Hash": "7TOZh1iha+o=",
+      "Meta": null,
+      "Name": "Content Patcher 1.18.2-1915-1-18-2-1600049052.zip",
+      "Size": 364307,
+      "State": {
+        "$type": "NexusDownloader, Wabbajack.Lib",
+        "Name": "Content Patcher",
+        "Author": "Pathoschild",
+        "Version": "1.18.2.0",
+        "ImageURL": "https://staticdelivery.nexusmods.com/mods/1303/images/1915/1915-1519967846-411398257.png",
+        "IsNSFW": false,
+        "Description": "Loads content packs that change the game's images and data without replacing XNB files.",
+        "GameName": "StardewValley",
+        "ModID": 1915,
+        "FileID": 31150,
+        "PrimaryKeyString": "NexusDownloader+State|StardewValley|1915|31150"
+      }
+    },
+    {
+      "$type": "Archive, Wabbajack.Lib",
+      "Hash": "SpnhjqThSg0=",
+      "Meta": null,
+      "Name": "PPJA - Khadija's Recipe Shop-5245-1-2-4-1599676048.zip",
+      "Size": 92701,
+      "State": {
+        "$type": "NexusDownloader, Wabbajack.Lib",
+        "Name": "PPJA - Khadija's Recipe Shop",
+        "Author": "Project Populate Json Assets",
+        "Version": "1.2.4.0",
+        "ImageURL": "https://staticdelivery.nexusmods.com/mods/1303/images/5245/5245-1579684886-364725883.png",
+        "IsNSFW": false,
+        "Description": "A new pair of vendors have set up shop in the valley, and they're bringing an ever expanding selection of exotic goods to Pelican Town! Buy cooking recipes and ingredients from Zamir on weekdays, and check out Nasira's collection of weapons and fancy new crafting recipes on Weekends! Sell JA items in an organized, balanced, and lore-friendly way!",
+        "GameName": "StardewValley",
+        "ModID": 5245,
+        "FileID": 31023,
+        "PrimaryKeyString": "NexusDownloader+State|StardewValley|5245|31023"
+      }
+    },
+    {
+      "$type": "Archive, Wabbajack.Lib",
+      "Hash": "edvqAJZbQ5s=",
+      "Meta": null,
+      "Name": "Seasonal Villager Outfits-2449-2-2-8-1600050849.zip",
+      "Size": 39982773,
+      "State": {
+        "$type": "NexusDownloader, Wabbajack.Lib",
+        "Name": "Seasonal Villager Outfits",
+        "Author": "Tanpopnoko and ParadigmNomad",
+        "Version": "2.2.8.0",
+        "ImageURL": "https://staticdelivery.nexusmods.com/mods/1303/images/2449/2449-1561652411-1743718946.png",
+        "IsNSFW": false,
+        "Description": "An outfit for every season!",
+        "GameName": "StardewValley",
+        "ModID": 2449,
+        "FileID": 31152,
+        "PrimaryKeyString": "NexusDownloader+State|StardewValley|2449|31152"
+      }
+    },
+    {
+      "$type": "Archive, Wabbajack.Lib",
+      "Hash": "k3nh0s3nGrw=",
+      "Meta": null,
+      "Name": "TMXL Map Toolkit-1820-1-18-3-1599827638.zip",
+      "Size": 134678,
+      "State": {
+        "$type": "NexusDownloader, Wabbajack.Lib",
+        "Name": "TMXL Map Toolkit",
+        "Author": "Platonymous",
+        "Version": "1.18.3.0",
+        "ImageURL": "https://staticdelivery.nexusmods.com/mods/1303/images/1820/1820-1592947344-1283939808.png",
+        "IsNSFW": false,
+        "Description": "Toolkit for adding/editing/replacing maps and creating buildables.\n\n(Formerly named TMXLoader).",
+        "GameName": "StardewValley",
+        "ModID": 1820,
+        "FileID": 31071,
+        "PrimaryKeyString": "NexusDownloader+State|StardewValley|1820|31071"
+      }
+    },
+    {
+      "$type": "Archive, Wabbajack.Lib",
+      "Hash": "G2MdJhzXt5o=",
+      "Meta": null,
+      "Name": "Better Crops and Foraging-4912-3-0-9-1585266319.zip",
+      "Size": 206738,
+      "State": {
+        "$type": "NexusDownloader, Wabbajack.Lib",
+        "Name": "Better Crops and Foraging",
+        "Author": "cometkins",
+        "Version": "3.0.9.0",
+        "ImageURL": "https://staticdelivery.nexusmods.com/mods/1303/images/4912/4912-1576612440-759699920.png",
+        "IsNSFW": false,
+        "Description": "Want to change up the look of the crops and forageables in the game to be more realistic? Want more toned down colors? Look no further!",
+        "GameName": "StardewValley",
+        "ModID": 4912,
+        "FileID": 25391,
+        "PrimaryKeyString": "NexusDownloader+State|StardewValley|4912|25391"
+      }
+    },
+    {
+      "$type": "Archive, Wabbajack.Lib",
+      "Hash": "sR/skSz2SUQ=",
+      "Meta": null,
+      "Name": "CP Better Crops and Artisan Goods in SVE-6749-1-0-0-1598650765.rar",
+      "Size": 619600,
+      "State": {
+        "$type": "NexusDownloader, Wabbajack.Lib",
+        "Name": "Better Crops and Artisan Goods in SVE (Supports MSVE)",
+        "Author": "herbivoor and seitanicbean",
+        "Version": "1.0.0.0",
+        "ImageURL": "https://staticdelivery.nexusmods.com/mods/1303/images/6749/6749-1598649185-1329302371.png",
+        "IsNSFW": false,
+        "Description": "Replaces the crops and artisan goods added into Stardew Valley Expanded's Map with those from cometkins' Better Crops and Foraging and Better Artisan Goods. Requires both mods to work and also supports Gweniaczek's Medieval SV Expanded.",
+        "GameName": "StardewValley",
+        "ModID": 6749,
+        "FileID": 30706,
+        "PrimaryKeyString": "NexusDownloader+State|StardewValley|6749|30706"
+      }
+    },
+    {
+      "$type": "Archive, Wabbajack.Lib",
+      "Hash": "Tq+QMl/h8+U=",
+      "Meta": null,
+      "Name": "Better Artisan Goods-5394-1-1-2-1581873052.zip",
+      "Size": 35896,
+      "State": {
+        "$type": "NexusDownloader, Wabbajack.Lib",
+        "Name": "Better Artisan Goods",
+        "Author": "cometkins",
+        "Version": "1.1.2.0",
+        "ImageURL": "https://staticdelivery.nexusmods.com/mods/1303/images/5394/5394-1581573276-875045807.png",
+        "IsNSFW": false,
+        "Description": "Sequel to Better Crops and Foraging! Want to change the look of artisan goods and animal products to be a little more realistic and toned down? Look no further!",
+        "GameName": "StardewValley",
+        "ModID": 5394,
+        "FileID": 24082,
+        "PrimaryKeyString": "NexusDownloader+State|StardewValley|5394|24082"
+      }
+    },
+    {
+      "$type": "Archive, Wabbajack.Lib",
+      "Hash": "zKmhRcf7QbA=",
+      "Meta": null,
+      "Name": "Better Artisan Goods Icons Compatibility-5394-1-0-0-1581801260.zip",
+      "Size": 30216,
+      "State": {
+        "$type": "NexusDownloader, Wabbajack.Lib",
+        "Name": "Better Artisan Goods",
+        "Author": "cometkins",
+        "Version": "1.0.0.0",
+        "ImageURL": "https://staticdelivery.nexusmods.com/mods/1303/images/5394/5394-1581573276-875045807.png",
+        "IsNSFW": false,
+        "Description": "Sequel to Better Crops and Foraging! Want to change the look of artisan goods and animal products to be a little more realistic and toned down? Look no further!",
+        "GameName": "StardewValley",
+        "ModID": 5394,
+        "FileID": 24039,
+        "PrimaryKeyString": "NexusDownloader+State|StardewValley|5394|24039"
+      }
+    },
+    {
+      "$type": "Archive, Wabbajack.Lib",
+      "Hash": "THyt0tycGRo=",
+      "Meta": null,
+      "Name": "Bonster.Fruit.Veg-3438-2-0-1574861390.zip",
+      "Size": 403141,
+      "State": {
+        "$type": "NexusDownloader, Wabbajack.Lib",
+        "Name": "Bonster's Crops",
+        "Author": "Bonster",
+        "Version": "2.0.0.0",
+        "ImageURL": "https://staticdelivery.nexusmods.com/mods/1303/images/3438/3438-1549602186-1963201737.png",
+        "IsNSFW": false,
+        "Description": "A mod that adds new crops and trees to the game.  Requires JSON.",
+        "GameName": "StardewValley",
+        "ModID": 3438,
+        "FileID": 20424,
+        "PrimaryKeyString": "NexusDownloader+State|StardewValley|3438|20424"
+      }
+    },
+    {
+      "$type": "Archive, Wabbajack.Lib",
+      "Hash": "5ZPdAThPe0M=",
+      "Meta": null,
+      "Name": "Champagne Wishes-5721-1-0-3-1592278318.zip",
+      "Size": 30681,
+      "State": {
+        "$type": "NexusDownloader, Wabbajack.Lib",
+        "Name": "Champagne Wishes",
+        "Author": "fwippy",
+        "Version": "1.0.3.0",
+        "ImageURL": "https://staticdelivery.nexusmods.com/mods/1303/images/5721/5721-1585944940-2068484735.png",
+        "IsNSFW": false,
+        "Description": "...and caviar dreams.  Adds a bit of the bubbly stuff and a variety of fancy recipes to the game!",
+        "GameName": "StardewValley",
+        "ModID": 5721,
+        "FileID": 28245,
+        "PrimaryKeyString": "NexusDownloader+State|StardewValley|5721|28245"
+      }
+    },
+    {
+      "$type": "Archive, Wabbajack.Lib",
+      "Hash": "X3V/6v8p9jY=",
+      "Meta": null,
+      "Name": "Mizu's Flowers-2028-1-6-6-1580774265.zip",
+      "Size": 174986,
+      "State": {
+        "$type": "NexusDownloader, Wabbajack.Lib",
+        "Name": "PPJA - Mizu's Flowers",
+        "Author": "Project Populate Json Assets",
+        "Version": "1.6.6.0",
+        "ImageURL": "https://staticdelivery.nexusmods.com/mods/1303/images/2028/2028-1574727890-1037469973.png",
+        "IsNSFW": false,
+        "Description": "Adds new flowers to the game!",
+        "GameName": "StardewValley",
+        "ModID": 2028,
+        "FileID": 23566,
+        "PrimaryKeyString": "NexusDownloader+State|StardewValley|2028|23566"
+      }
+    },
+    {
+      "$type": "Archive, Wabbajack.Lib",
+      "Hash": "cG9kgLXHgMU=",
+      "Meta": null,
+      "Name": "Artisan Valley-1926-3-0-16-1594757622.zip",
+      "Size": 774328,
+      "State": {
+        "$type": "NexusDownloader, Wabbajack.Lib",
+        "Name": "PPJA - Artisan Valley",
+        "Author": "Project Populate Json Assets",
+        "Version": "3.0.16.0",
+        "ImageURL": "https://staticdelivery.nexusmods.com/mods/1303/images/1926/1926-1577158903-441592645.png",
+        "IsNSFW": false,
+        "Description": "Me sell artisan goods. Okay, poke? Bring coines. 20 New Machines and 150+ New Items!",
+        "GameName": "StardewValley",
+        "ModID": 1926,
+        "FileID": 29212,
+        "PrimaryKeyString": "NexusDownloader+State|StardewValley|1926|29212"
+      }
+    },
+    {
+      "$type": "Archive, Wabbajack.Lib",
+      "Hash": "RzTRE3ffs+A=",
+      "Meta": null,
+      "Name": "Christmas Sweets-4950-1-0-4-1591685353.zip",
+      "Size": 60907,
+      "State": {
+        "$type": "NexusDownloader, Wabbajack.Lib",
+        "Name": "PPJA - Christmas Sweets",
+        "Author": "Project Populate Json Assets",
+        "Version": "1.0.4.0",
+        "ImageURL": "https://staticdelivery.nexusmods.com/mods/1303/images/4950/4950-1577133724-1811418929.png",
+        "IsNSFW": false,
+        "Description": "A delicious collection of Christmas-inspired sweets!",
+        "GameName": "StardewValley",
+        "ModID": 4950,
+        "FileID": 28016,
+        "PrimaryKeyString": "NexusDownloader+State|StardewValley|4950|28016"
+      }
+    },
+    {
+      "$type": "Archive, Wabbajack.Lib",
+      "Hash": "Ta+tsrpXixM=",
+      "Meta": null,
+      "Name": "Even More Recipes-1742-1-5-8-1580774341.zip",
+      "Size": 342180,
+      "State": {
+        "$type": "NexusDownloader, Wabbajack.Lib",
+        "Name": "PPJA - Even More Recipes_Another Collection of Recipes",
+        "Author": "Project Populate JsonAssets",
+        "Version": "1.5.8.0",
+        "ImageURL": "https://staticdelivery.nexusmods.com/mods/1303/images/1742/1742-1574727025-209574401.png",
+        "IsNSFW": false,
+        "Description": "Even more food! A collaboration (and main hub) for loads of new recipes.",
+        "GameName": "StardewValley",
+        "ModID": 1742,
+        "FileID": 23567,
+        "PrimaryKeyString": "NexusDownloader+State|StardewValley|1742|23567"
+      }
+    },
+    {
+      "$type": "Archive, Wabbajack.Lib",
+      "Hash": "RXngxmXxNr8=",
+      "Meta": null,
+      "Name": "More Recipes 1.9.11-1670-1-9-10-1580782370.zip",
+      "Size": 235518,
+      "State": {
+        "$type": "NexusDownloader, Wabbajack.Lib",
+        "Name": "PPJA - More Recipes_A Collection of Recipes",
+        "Author": "Project Populate Json Assets",
+        "Version": "1.9.11.0",
+        "ImageURL": "https://staticdelivery.nexusmods.com/mods/1303/images/1670/1670-1574722477-2026317225.png",
+        "IsNSFW": false,
+        "Description": "Ever wanted more recipes in your game? Well here you go!",
+        "GameName": "StardewValley",
+        "ModID": 1670,
+        "FileID": 23579,
+        "PrimaryKeyString": "NexusDownloader+State|StardewValley|1670|23579"
+      }
+    },
+    {
+      "$type": "Archive, Wabbajack.Lib",
+      "Hash": "iyCIc5Ut/Sk=",
+      "Meta": null,
+      "Name": "More Trees-1671-1-6-8-1590626458.zip",
+      "Size": 689993,
+      "State": {
+        "$type": "NexusDownloader, Wabbajack.Lib",
+        "Name": "PPJA - More Trees",
+        "Author": "Project Populate Json Assets",
+        "Version": "1.6.8.0",
+        "ImageURL": "https://staticdelivery.nexusmods.com/mods/1303/images/1671/1671-1574721289-2022350615.png",
+        "IsNSFW": false,
+        "Description": "Want more fruit trees? I hear ya",
+        "GameName": "StardewValley",
+        "ModID": 1671,
+        "FileID": 27559,
+        "PrimaryKeyString": "NexusDownloader+State|StardewValley|1671|27559"
+      }
+    },
+    {
+      "$type": "Archive, Wabbajack.Lib",
+      "Hash": "f4jMhegrJOA=",
+      "Meta": null,
+      "Name": "Starbrew Valley-1764-1-3-13-1592326210.zip",
+      "Size": 197050,
+      "State": {
+        "$type": "NexusDownloader, Wabbajack.Lib",
+        "Name": "PPJA - Starbrew Valley_A Collection of New Alcoholic Drinks",
+        "Author": "Project Populate JsonAssets",
+        "Version": "1.3.13.0",
+        "ImageURL": "https://staticdelivery.nexusmods.com/mods/1303/images/1764/1764-1574724804-525947187.png",
+        "IsNSFW": false,
+        "Description": "Ever wondered why Gus only sells beer? Yeah, me too. Imagine if a bar only sold one type of drink and one flavor; they'd go out of business pretty quick. Adds new drinks &amp; recipes to the Stardrop Saloon.",
+        "GameName": "StardewValley",
+        "ModID": 1764,
+        "FileID": 28254,
+        "PrimaryKeyString": "NexusDownloader+State|StardewValley|1764|28254"
+      }
+    },
+    {
+      "$type": "Archive, Wabbajack.Lib",
+      "Hash": "aVJ2spCktNs=",
+      "Meta": null,
+      "Name": "A Better Backyard - iShed Edition-6852-3-0-1600408202.zip",
+      "Size": 64768,
+      "State": {
+        "$type": "NexusDownloader, Wabbajack.Lib",
+        "Name": "A Better Backyard - For SVE Immersive Farm 2",
+        "Author": "LilyMods",
+        "Version": "3.0.0.0",
+        "ImageURL": "https://staticdelivery.nexusmods.com/mods/1303/images/6852/6852-1600250729-1178929974.png",
+        "IsNSFW": false,
+        "Description": "This mod seeks to improve upon the backyard that is behind your farm house, with SVE - IF2 ReMastered, by increasing the amount of locations that would otherwise be perfect for construction if not for a few design flaws. Optionally revamps the Immersive Farm's established Shed to be in a more accessible location with a warmer interior.",
+        "GameName": "StardewValley",
+        "ModID": 6852,
+        "FileID": 31281,
+        "PrimaryKeyString": "NexusDownloader+State|StardewValley|6852|31281"
+      }
+    },
+    {
+      "$type": "Archive, Wabbajack.Lib",
+      "Hash": "WNPvEF0txvQ=",
+      "Meta": null,
+      "Name": "Cannabis Kit-1741-2-0-3-1589074828.zip",
+      "Size": 130898,
+      "State": {
+        "$type": "NexusDownloader, Wabbajack.Lib",
+        "Name": "PPJA - Cannabis Kit",
+        "Author": "taintedwheat and Project Populate Json Assets",
+        "Version": "2.0.3.0",
+        "ImageURL": "https://staticdelivery.nexusmods.com/mods/1303/images/1741/1741-1574728503-74184856.png",
+        "IsNSFW": false,
+        "Description": "Mayor Lewis has recently passed legislation allowing you to now grow cannabis on your farm! Adds new craftables and recipes as well as a new crop! This mod is a re-release of my previous cannabis crop mod, but with an overhaul.",
+        "GameName": "StardewValley",
+        "ModID": 1741,
+        "FileID": 26986,
+        "PrimaryKeyString": "NexusDownloader+State|StardewValley|1741|26986"
+      }
+    }
+  ],
+  "InlinedFiles": [
+    {
+      "$type": "InlineFile, Wabbajack.Lib",
+      "SourceDataID": "690f2575-08d1-4ad9-ab02-5e55fac3a6e0",
+      "Hash": "0BH8eC9R9ng=",
+      "Size": 51,
+      "To": "dump_running_process.bat"
+    },
+    {
+      "$type": "RemappedInlineFile, Wabbajack.Lib",
+      "SourceDataID": "98d767e4-ef22-4b20-8b6a-173c461bcde8",
+      "Hash": "61XcVv9N/lM=",
+      "Size": 12722,
+      "To": "ModOrganizer.ini"
+    },
+    {
+      "$type": "InlineFile, Wabbajack.Lib",
+      "SourceDataID": "979d0fbb-9515-4f55-9347-6ad71eedac8a",
+      "Hash": "RvwZHxUDzxI=",
+      "Size": 3384,
+      "To": "mods\\Ancient Crops - Custom Icons - BAGI Add-On\\meta.ini"
+    },
+    {
+      "$type": "InlineFile, Wabbajack.Lib",
+      "SourceDataID": "8e6e39ca-c438-40c8-9a30-a601440272e5",
+      "Hash": "J90+epWPAs0=",
+      "Size": 7456,
+      "To": "mods\\Artisan Valley - CustomCaskMod Add-On\\meta.ini"
+    },
+    {
+      "$type": "InlineFile, Wabbajack.Lib",
+      "SourceDataID": "4a5f4b19-1899-4234-9691-f3a151dedc87",
+      "Hash": "ViLZTPlqSVU=",
+      "Size": 1982,
+      "To": "mods\\Better Artisan Good Icons\\meta.ini"
+    },
+    {
+      "$type": "InlineFile, Wabbajack.Lib",
+      "SourceDataID": "68b11a02-a889-496a-ba27-ed656bb8b22e",
+      "Hash": "NWITZUQUTXA=",
+      "Size": 4175,
+      "To": "mods\\Bonster's Crops\\meta.ini"
+    },
+    {
+      "$type": "InlineFile, Wabbajack.Lib",
+      "SourceDataID": "68020ece-ea67-4bcd-a88f-ac7c1316de92",
+      "Hash": "5pED4vPX6Cw=",
+      "Size": 1889,
+      "To": "mods\\Champagne Wishes\\meta.ini"
+    },
+    {
+      "$type": "InlineFile, Wabbajack.Lib",
+      "SourceDataID": "1e61034b-1586-4527-9cc7-e315d083ce01",
+      "Hash": "hmVyUXdkyPU=",
+      "Size": 8525,
+      "To": "mods\\Custom Cask Mod\\meta.ini"
+    },
+    {
+      "$type": "InlineFile, Wabbajack.Lib",
+      "SourceDataID": "b7104cad-ca18-4fe6-b2e0-7bd74f038ffb",
+      "Hash": "i5d/nRVvu30=",
+      "Size": 428,
+      "To": "mods\\Extra Useful Stuff_separator\\meta.ini"
+    },
+    {
+      "$type": "InlineFile, Wabbajack.Lib",
+      "SourceDataID": "05acf802-7da7-4714-a8b9-b2306f9d24ac",
+      "Hash": "2jT3MUbtq4A=",
+      "Size": 3163,
+      "To": "mods\\Mizu's Flowers\\meta.ini"
+    },
+    {
+      "$type": "InlineFile, Wabbajack.Lib",
+      "SourceDataID": "098338cb-c42f-4d73-a881-243508da6336",
+      "Hash": "GmvrR43C97w=",
+      "Size": 427,
+      "To": "mods\\More Crafting and Farming Options_separator\\meta.ini"
+    },
+    {
+      "$type": "InlineFile, Wabbajack.Lib",
+      "SourceDataID": "c612681a-151b-486f-8f36-f18b71ecf4fb",
+      "Hash": "byPVbSDTLOQ=",
+      "Size": 1919,
+      "To": "mods\\Multi Yield Crops\\meta.ini"
+    },
+    {
+      "$type": "InlineFile, Wabbajack.Lib",
+      "SourceDataID": "a8ed73d7-184b-469b-9402-9df66146318a",
+      "Hash": "CcF2V4Li1hE=",
+      "Size": 428,
+      "To": "mods\\Necessary Tools_separator\\meta.ini"
+    },
+    {
+      "$type": "InlineFile, Wabbajack.Lib",
+      "SourceDataID": "1525d104-9028-4a5c-8c14-b8059350fd50",
+      "Hash": "2aunHcOR8DI=",
+      "Size": 7437,
+      "To": "mods\\PPJA - Artisan Valley\\meta.ini"
+    },
+    {
+      "$type": "InlineFile, Wabbajack.Lib",
+      "SourceDataID": "75666c48-f2b8-4bbe-b327-a875b2ce1337",
+      "Hash": "PNxdpx3PLa0=",
+      "Size": 2900,
+      "To": "mods\\PPJA - Christmas Sweets\\meta.ini"
+    },
+    {
+      "$type": "InlineFile, Wabbajack.Lib",
+      "SourceDataID": "3f653d21-3db1-4077-a768-b6595f2268ba",
+      "Hash": "6BYE9aCme5M=",
+      "Size": 4587,
+      "To": "mods\\PPJA - Even More Recipes_Another Collection of Recipes\\meta.ini"
+    },
+    {
+      "$type": "InlineFile, Wabbajack.Lib",
+      "SourceDataID": "81f6949b-f610-4e89-b169-51a2c406b9d2",
+      "Hash": "kFXPE0WQMNo=",
+      "Size": 4841,
+      "To": "mods\\PPJA - More Recipes_A Collection of Recipes\\meta.ini"
+    },
+    {
+      "$type": "InlineFile, Wabbajack.Lib",
+      "SourceDataID": "06cbbf73-dfb8-40d3-b2c4-62e7f15af209",
+      "Hash": "e07S64Oz48M=",
+      "Size": 3552,
+      "To": "mods\\PPJA - More Trees\\meta.ini"
+    },
+    {
+      "$type": "InlineFile, Wabbajack.Lib",
+      "SourceDataID": "155ef2b9-47e8-426d-a563-264f3981d914",
+      "Hash": "QD36+1eCnRk=",
+      "Size": 1680,
+      "To": "mods\\PPJA Icon Pack for Better Artisan Goods Icons\\meta.ini"
+    },
+    {
+      "$type": "InlineFile, Wabbajack.Lib",
+      "SourceDataID": "569ec325-4969-49a2-afe4-fdf2b4a71edb",
+      "Hash": "gcZDp9LA/bc=",
+      "Size": 2530,
+      "To": "mods\\Seasonal Outfits for SVE (Vanilla Style)\\meta.ini"
+    },
+    {
+      "$type": "InlineFile, Wabbajack.Lib",
+      "SourceDataID": "9f692567-d55e-46f1-af0b-dec63ee9518e",
+      "Hash": "ieG3B5odJmU=",
+      "Size": 3908,
+      "To": "mods\\Starbrew Valley\\meta.ini"
+    },
+    {
+      "$type": "InlineFile, Wabbajack.Lib",
+      "SourceDataID": "c1ba8613-6046-4040-88a3-9e77a6767004",
+      "Hash": "ecs0fgo8ku4=",
+      "Size": 428,
+      "To": "mods\\Stardew Valley Expanded_separator\\meta.ini"
+    },
+    {
+      "$type": "InlineFile, Wabbajack.Lib",
+      "SourceDataID": "2d109ab1-d703-46d2-874c-e4ff3929bd98",
+      "Hash": "CXtP0QoFcTM=",
+      "Size": 3127,
+      "To": "mods\\TimeSpeed\\meta.ini"
+    },
+    {
+      "$type": "InlineFile, Wabbajack.Lib",
+      "SourceDataID": "a14f85a7-786a-4fcc-a5b4-5cce106e392a",
+      "Hash": "TOpUtccGadE=",
+      "Size": 3297,
+      "To": "mods\\Traveling Takes Time\\meta.ini"
+    },
+    {
+      "$type": "InlineFile, Wabbajack.Lib",
+      "SourceDataID": "d577504e-01a1-4ea2-a950-8877465df256",
+      "Hash": "KpXJdjVVYVs=",
+      "Size": 557,
+      "To": "mods\\Quest Framework\\meta.ini"
+    },
+    {
+      "$type": "InlineFile, Wabbajack.Lib",
+      "SourceDataID": "a904a9b8-aa5b-4462-8073-08458548985b",
+      "Hash": "aA5ALe5jacg=",
+      "Size": 15405,
+      "To": "mods\\NPC Adventures (It's time to adventure)\\meta.ini"
+    },
+    {
+      "$type": "InlineFile, Wabbajack.Lib",
+      "SourceDataID": "a443f5aa-f800-4ad4-91b8-a7a310603808",
+      "Hash": "i930/jmWues=",
+      "Size": 2024,
+      "To": "mods\\Tell Everyone (Town Gossip)\\meta.ini"
+    },
+    {
+      "$type": "InlineFile, Wabbajack.Lib",
+      "SourceDataID": "e451f80f-2069-47c3-bf08-2fc2739691bc",
+      "Hash": "/RoPSzkXEOM=",
+      "Size": 3396,
+      "To": "mods\\Anti-Social NPCs\\meta.ini"
+    },
+    {
+      "$type": "InlineFile, Wabbajack.Lib",
+      "SourceDataID": "2c2f7266-20d8-4cb9-bdce-f1d24f0c87bf",
+      "Hash": "larbYhy8o9I=",
+      "Size": 9584,
+      "To": "mods\\Farm Type Manager (FTM)\\meta.ini"
+    },
+    {
+      "$type": "InlineFile, Wabbajack.Lib",
+      "SourceDataID": "a371078b-abee-4abc-a40d-cfd6564e4135",
+      "Hash": "XoQh/egummg=",
+      "Size": 812,
+      "To": "mods\\Json Assets\\meta.ini"
+    },
+    {
+      "$type": "InlineFile, Wabbajack.Lib",
+      "SourceDataID": "260fb915-bd19-474b-988b-2e8ceff36fde",
+      "Hash": "o4vqfIH5hkU=",
+      "Size": 19318,
+      "To": "mods\\Mail Framework Mod\\meta.ini"
+    },
+    {
+      "$type": "InlineFile, Wabbajack.Lib",
+      "SourceDataID": "b4bc8df4-b89e-4b28-8608-3abd74d3b709",
+      "Hash": "IwKT9mu3aCQ=",
+      "Size": 2508,
+      "To": "mods\\Custom Crafting Stations\\meta.ini"
+    },
+    {
+      "$type": "InlineFile, Wabbajack.Lib",
+      "SourceDataID": "22ebc984-1025-482e-afdf-ef369ff8ee36",
+      "Hash": "P/j+Adp/uzI=",
+      "Size": 1754,
+      "To": "mods\\Expanded Preconditions Utility\\meta.ini"
+    },
+    {
+      "$type": "InlineFile, Wabbajack.Lib",
+      "SourceDataID": "55b5e0f1-cb99-4ae3-89bd-4b6ae8b7e7c2",
+      "Hash": "ygprFgWUQO4=",
+      "Size": 2257,
+      "To": "mods\\Winter Grass\\meta.ini"
+    },
+    {
+      "$type": "InlineFile, Wabbajack.Lib",
+      "SourceDataID": "7e0a4a90-389a-4b87-95ab-072c9169ed7f",
+      "Hash": "pUbI78IjARM=",
+      "Size": 29155,
+      "To": "mods\\Producer Framework Mod\\meta.ini"
+    },
+    {
+      "$type": "InlineFile, Wabbajack.Lib",
+      "SourceDataID": "c0b8073d-b740-4566-915f-4adf839c2aed",
+      "Hash": "O2/Z0Cspwmo=",
+      "Size": 3551,
+      "To": "mods\\Dynamic Night Time\\meta.ini"
+    },
+    {
+      "$type": "InlineFile, Wabbajack.Lib",
+      "SourceDataID": "d1f1fa20-effe-47b1-9eb7-d6ff47c825da",
+      "Hash": "RjScWzkUsE0=",
+      "Size": 49568,
+      "To": "mods\\Immersive Farm 2 Remastered\\meta.ini"
+    },
+    {
+      "$type": "InlineFile, Wabbajack.Lib",
+      "SourceDataID": "64491d07-e086-478a-88f0-4f31783ca5eb",
+      "Hash": "iJJ9RL4g6ck=",
+      "Size": 6330,
+      "To": "mods\\NPC Map Locations\\meta.ini"
+    },
+    {
+      "$type": "InlineFile, Wabbajack.Lib",
+      "SourceDataID": "e29af45c-45b2-4eff-8074-27b04ea14fdb",
+      "Hash": "FyN1BQce4qY=",
+      "Size": 603,
+      "To": "mods\\SpaceCore\\meta.ini"
+    },
+    {
+      "$type": "InlineFile, Wabbajack.Lib",
+      "SourceDataID": "8739fc81-b0bc-47a9-9376-04b67ee75685",
+      "Hash": "8V9/uKzT3Gk=",
+      "Size": 49587,
+      "To": "mods\\Stardew Valley Expanded\\meta.ini"
+    },
+    {
+      "$type": "InlineFile, Wabbajack.Lib",
+      "SourceDataID": "4541dd0f-9c03-4f31-9f20-bb1a7668740b",
+      "Hash": "3a1Zh1iEVsc=",
+      "Size": 5826,
+      "To": "mods\\Shop Tile Framework\\meta.ini"
+    },
+    {
+      "$type": "InlineFile, Wabbajack.Lib",
+      "SourceDataID": "bcc647b1-9229-48b8-a5a1-363d87fec725",
+      "Hash": "o4u1rS/qz5o=",
+      "Size": 3900,
+      "To": "mods\\Climates of Ferngill\\meta.ini"
+    },
+    {
+      "$type": "InlineFile, Wabbajack.Lib",
+      "SourceDataID": "c585a34b-6e8c-4b87-b381-72f20e25e342",
+      "Hash": "u2Y0uKxsipQ=",
+      "Size": 2454,
+      "To": "mods\\Lunar Disturbances\\meta.ini"
+    },
+    {
+      "$type": "InlineFile, Wabbajack.Lib",
+      "SourceDataID": "6b0603a9-4719-42cf-ad00-b9b4ca9e6e2b",
+      "Hash": "4zg7DwPX+00=",
+      "Size": 3303,
+      "To": "mods\\PPJA - Cannabis Kit\\meta.ini"
+    },
+    {
+      "$type": "InlineFile, Wabbajack.Lib",
+      "SourceDataID": "763497c3-4fdd-4843-876b-38838b142fd7",
+      "Hash": "HYENWwLlRw0=",
+      "Size": 1194,
+      "To": "mods\\Hybrid Crop Engine\\meta.ini"
+    },
+    {
+      "$type": "InlineFile, Wabbajack.Lib",
+      "SourceDataID": "c6823f29-dfec-48fd-95e8-1824b3c460ec",
+      "Hash": "X4G773td2Ag=",
+      "Size": 3634,
+      "To": "mods\\Lookup Anything\\meta.ini"
+    },
+    {
+      "$type": "InlineFile, Wabbajack.Lib",
+      "SourceDataID": "86a97f1c-7767-4e89-9e3c-b6b7bf2033a0",
+      "Hash": "j68jgb2lOuw=",
+      "Size": 3355,
+      "To": "mods\\PPJA - Ancient Crops\\meta.ini"
+    },
+    {
+      "$type": "InlineFile, Wabbajack.Lib",
+      "SourceDataID": "cfaf4f37-a1fb-4e80-a156-6603c92f37c0",
+      "Hash": "e5Qbuj6VkjM=",
+      "Size": 3353,
+      "To": "mods\\PPJA - Fantasy Crops\\meta.ini"
+    },
+    {
+      "$type": "InlineFile, Wabbajack.Lib",
+      "SourceDataID": "cdecdab3-4a2c-4ff8-9362-4aaed69d0616",
+      "Hash": "MR+4aEnl86Y=",
+      "Size": 3192,
+      "To": "mods\\PPJA - Fresh Meat_An 'Alternative' Butcher Mod\\meta.ini"
+    },
+    {
+      "$type": "InlineFile, Wabbajack.Lib",
+      "SourceDataID": "ac4c0d0a-90d4-4f90-8e10-03b61d0f9133",
+      "Hash": "8MUtibr5198=",
+      "Size": 4100,
+      "To": "mods\\PPJA - Fruits and Veggies\\meta.ini"
+    },
+    {
+      "$type": "InlineFile, Wabbajack.Lib",
+      "SourceDataID": "82f69d74-f8eb-47d7-97ce-d6df04d9716a",
+      "Hash": "GiD4jty/E8Y=",
+      "Size": 3786,
+      "To": "mods\\Shaved Ice and Frozen Treats\\meta.ini"
+    },
+    {
+      "$type": "InlineFile, Wabbajack.Lib",
+      "SourceDataID": "a1690321-d99a-4ed6-af40-b54f0ae36016",
+      "Hash": "2AImMrZAAG8=",
+      "Size": 537,
+      "To": "mods\\Museum Expansion\\meta.ini"
+    },
+    {
+      "$type": "InlineFile, Wabbajack.Lib",
+      "SourceDataID": "8ba518b4-ddf2-4f4f-a3a6-0af440483632",
+      "Hash": "1KeIMsJnhq0=",
+      "Size": 4918,
+      "To": "mods\\Artisanal Soda Makers\\meta.ini"
+    },
+    {
+      "$type": "InlineFile, Wabbajack.Lib",
+      "SourceDataID": "bfce26c8-a239-485b-b58f-87fbf7692733",
+      "Hash": "gFW9EsCUiFI=",
+      "Size": 4921,
+      "To": "mods\\Artisanal Soda Makers - PPJA Fruit Pack\\meta.ini"
+    },
+    {
+      "$type": "InlineFile, Wabbajack.Lib",
+      "SourceDataID": "1cc06724-90b8-4cb9-8f20-d0e9815da867",
+      "Hash": "XywXbmbx77M=",
+      "Size": 3652,
+      "To": "mods\\Fizzy Drinks\\meta.ini"
+    },
+    {
+      "$type": "InlineFile, Wabbajack.Lib",
+      "SourceDataID": "0c755dcd-6728-4525-a7e2-729c64516e5a",
+      "Hash": "bpnsQpgFTjY=",
+      "Size": 8583,
+      "To": "mods\\Automate\\meta.ini"
+    },
+    {
+      "$type": "InlineFile, Wabbajack.Lib",
+      "SourceDataID": "5cd89ded-5ffc-48da-9ccb-8837bb2ed5f5",
+      "Hash": "3tGKUsjpu2k=",
+      "Size": 4312,
+      "To": "mods\\Challenging Community Center Bundles (for PPJA)\\meta.ini"
+    },
+    {
+      "$type": "InlineFile, Wabbajack.Lib",
+      "SourceDataID": "e77c511b-3de5-40c5-bab4-1bf08fd83c33",
+      "Hash": "vwsu7lF08kw=",
+      "Size": 3513,
+      "To": "mods\\Content Patcher\\meta.ini"
+    },
+    {
+      "$type": "InlineFile, Wabbajack.Lib",
+      "SourceDataID": "32040aa6-057f-4730-afb4-c6bf4db5a45f",
+      "Hash": "BjA1pOP4UqI=",
+      "Size": 7404,
+      "To": "mods\\PPJA - Khadija's Recipe Shop\\meta.ini"
+    },
+    {
+      "$type": "InlineFile, Wabbajack.Lib",
+      "SourceDataID": "c011d44e-25d3-4142-b877-69ca35255bff",
+      "Hash": "a6LK4uDs1Mg=",
+      "Size": 3351,
+      "To": "mods\\PyTK - Platonymous Toolkit\\meta.ini"
+    },
+    {
+      "$type": "InlineFile, Wabbajack.Lib",
+      "SourceDataID": "ba293190-9810-45a1-a321-667005cee98b",
+      "Hash": "/x6SOyqVac4=",
+      "Size": 4790,
+      "To": "mods\\Seasonal Villager Outfits\\meta.ini"
+    },
+    {
+      "$type": "InlineFile, Wabbajack.Lib",
+      "SourceDataID": "70df2418-4ff8-460b-b2ec-e52509d32c51",
+      "Hash": "D62FMBsgpuU=",
+      "Size": 11950,
+      "To": "mods\\TMXL Map Toolkit\\meta.ini"
+    },
+    {
+      "$type": "InlineFile, Wabbajack.Lib",
+      "SourceDataID": "ca3a4887-7b4f-4a43-a281-472fdc3ecd85",
+      "Hash": "12jTVYggYWA=",
+      "Size": 543,
+      "To": "mods\\Better Crops and Foraging\\meta.ini"
+    },
+    {
+      "$type": "InlineFile, Wabbajack.Lib",
+      "SourceDataID": "11363cb8-2227-4d71-9e78-c55b3109a381",
+      "Hash": "7TEVTNIqsvc=",
+      "Size": 6496,
+      "To": "mods\\Better Crops and Artisan Goods in SVE (Supports MSVE)\\meta.ini"
+    },
+    {
+      "$type": "InlineFile, Wabbajack.Lib",
+      "SourceDataID": "415950d4-dfbc-4e99-a1b5-bc23c9e3d198",
+      "Hash": "v9RbpdB9NCQ=",
+      "Size": 1856,
+      "To": "mods\\Better Artisan Goods\\meta.ini"
+    },
+    {
+      "$type": "InlineFile, Wabbajack.Lib",
+      "SourceDataID": "d347b9e0-2750-4341-b71e-0ad6bdcae70a",
+      "Hash": "menYUTfbRu8=",
+      "Size": 0,
+      "To": "profiles\\In the Stardew of the Valley\\archives.txt"
+    },
+    {
+      "$type": "InlineFile, Wabbajack.Lib",
+      "SourceDataID": "235b2510-1965-478d-ae8b-945457acbc0b",
+      "Hash": "uWyxDtI63+U=",
+      "Size": 84,
+      "To": "profiles\\In the Stardew of the Valley\\settings.ini"
+    },
+    {
+      "$type": "InlineFile, Wabbajack.Lib",
+      "SourceDataID": "f02f02c8-68be-409e-9a23-867c8ed22bca",
+      "Hash": "ObRVak/diAU=",
+      "Size": 1883,
+      "To": "profiles\\In the Stardew of the Valley\\modlist.txt"
+    },
+    {
+      "$type": "InlineFile, Wabbajack.Lib",
+      "SourceDataID": "bd7080f2-4268-4299-ba5a-637529dd96c1",
+      "Hash": "zH3GSffbvsA=",
+      "Size": 36,
+      "To": "profiles\\In the Stardew of the Valley\\initweaks.ini"
+    },
+    {
+      "$type": "InlineFile, Wabbajack.Lib",
+      "SourceDataID": "10012072-29e2-4ae4-9a7b-d2a1c480bec3",
+      "Hash": "CcflEOKPT3E=",
+      "Size": 59,
+      "To": "profiles\\In the Stardew of the Valley\\lockedorder.txt"
+    }
+  ]
+}
