@@ -1,5 +1,7 @@
 # In the Stardew of the Valley
 
+DISCLAIMER: I AM NOT RESPONSIBLE FOR YOUR PC BLOWING UP
+
 **Please follow the instructions written below in a helpful bullet point format. Believe me, this won’t take you long.**
 
 - First off, install Stardew Valley. Pretty sure any LEGAL version will work, but I’ve only tested the Steam version, so let me know if this isn’t accurate. No, I will not support piracy.
